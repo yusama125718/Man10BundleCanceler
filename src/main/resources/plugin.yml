@@ -1,0 +1,13 @@
+name: Man10BundleCanceler
+version: '${project.version}'
+main: yusama125718.man10bundlecanceler.Man10BundleCanceler
+api-version: 1.19
+
+commands:
+  mbcanceler:
+    description: mbcanceler
+    usage: /mbcanceler help
+
+parmissions:
+  mbcanceler.op:
+    default: op
