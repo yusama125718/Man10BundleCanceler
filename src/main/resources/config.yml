@@ -1,2 +1,4 @@
 system: true
+mode: "All"
+world_mode: off
 worlds:
